@@ -1,0 +1,35 @@
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.exe.config
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.exe
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.pdb
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.xml
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.Resources.resources
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.exe
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.xml
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.pdb
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.Form1.resources
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.MainPlayer.resources
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Leo MG Nesfield\AppData\Local\Temporary Projects\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.exe.config
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.exe
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.xml
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.pdb
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.exe
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.pdb
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\bin\Debug\LMGNMediaPlayer.xml
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.Form1.resources
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.MainPlayer.resources
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.Resources.resources
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\Leo MG Nesfield\Documents\Visual Studio 2015\Projects\LMGNMediaPlayer\LMGNMediaPlayer\obj\Debug\LMGNMediaPlayer.bugReporter.resources
