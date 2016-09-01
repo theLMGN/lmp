@@ -18,7 +18,7 @@ Public Class bugReporter
         Try
             Dim SmtpServer As New SmtpClient()
             Dim mail As New MailMessage()
-            SmtpServer.Credentials = New Net.NetworkCredential("lmpbugs@thelmgn.com", "lmgnmediaplayerbuggies")
+            SmtpServer.Credentials = New Net.NetworkCredential("lmpbugs@thelmgn.com", "redacted.")
             SmtpServer.Port = 465
             SmtpServer.Host = "mail.thelmgn.com"
             mail = New MailMessage()
